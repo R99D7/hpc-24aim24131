@@ -1,4 +1,4 @@
-// My first test
+// Testing the VS Code Workflow
 /* ===========================================================================
    Exercise 06 — Parallel reduction with OpenMP
 
